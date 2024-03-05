@@ -1,6 +1,6 @@
 {
     "name": "loclzbiz/comments",
-    "description": "Comments for Laravel.",
+    "description": "Comments for Laravel. Forked from Laravelista\\Comments\\",
     "keywords": [
         "laravel",
         "comments"
